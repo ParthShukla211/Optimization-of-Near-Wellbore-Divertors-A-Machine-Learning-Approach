@@ -1,5 +1,6 @@
 numpy
 pandas
-sckikit-learn
+scikit-learn
 xgboost
 openpyxl 
+streamlit
