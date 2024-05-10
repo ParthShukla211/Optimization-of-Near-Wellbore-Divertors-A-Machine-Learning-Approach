@@ -9,7 +9,6 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.ensemble import AdaBoostClassifier
 from xgboost import XGBClassifier
-from lightgbm import LGBMClassifier
 from sklearn.model_selection import train_test_split
 
 st.set_page_config(layout="wide", initial_sidebar_state="expanded")
